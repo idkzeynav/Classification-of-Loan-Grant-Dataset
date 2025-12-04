@@ -163,17 +163,11 @@ loan-grant-classification/
 
 ## 👤 Author
 
-*Your Name/Team Name*
+*idkzeynav*
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Dataset source: *[Add source if applicable]*
-- Project requirements: See `Tasks.docx`
-- Feature documentation: See `LoanGrant_Data_Dictionary.docx`
 
 ---
 
